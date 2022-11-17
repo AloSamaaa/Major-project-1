@@ -1,3 +1,7 @@
 .navg:hover {
     text-decoration: underline;
 }
+@font-face {
+    font-family: fonta;
+    src: url(sansation_light.woff);
+  }
